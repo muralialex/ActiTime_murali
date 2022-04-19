@@ -1,0 +1,9 @@
+package first_Package;
+
+class Learning {
+	// main => CTRL + SPACE + ENTER
+	public static void main(String[] args) {
+		// syso => CTRL + SPACE + ENTER
+		System.out.println();
+	}
+}
